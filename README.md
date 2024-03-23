@@ -6,5 +6,3 @@ My student number is 2021671132.
 I like reading and listening.
 
 I love ☕,🍕,and 💃.
-
-happy,happy,happy
